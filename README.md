@@ -66,6 +66,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| 🌟 [**Personal website**](https://suhas107.github.io) · [Code](https://github.com/suhas107/suhas107.github.io) | My portfolio: dance, campus leadership and projects, with a video hero and scroll animations | HTML · CSS · JS · GSAP |
 | 📝 [**NoteNest**](https://github.com/suhas107/notenest) · [Live demo](https://notenest-notes-app.vercel.app) | Personal notes app with JWT auth, search, tags and pinning | React · Node · Express · MongoDB |
 | 🌾 [**IP Management Portal**](https://github.com/suhas107/IP-MANAGEMENT-portal) | Patents, varieties and licenses for ICAR-IIRR with email 2FA, deadline calendar and analytics | Flask · SQLAlchemy · Chart.js |
 | 🧪 [**Laboratory Portal**](https://github.com/suhas107/laboratory-portal) | Lab management suite for people, projects, publications and inventory | React · Express · SQLite |
