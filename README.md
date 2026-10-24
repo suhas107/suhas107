@@ -11,6 +11,12 @@
 <a href="https://github.com/suhas107?tab=followers"><img src="https://img.shields.io/github/followers/suhas107?label=Followers&style=flat&color=0e75b6" alt="followers" /></a>
 <a href="https://github.com/suhas107?tab=repositories"><img src="https://img.shields.io/badge/Repos-8-0e75b6?style=flat" alt="repos" /></a>
 
+<br/><br/>
+
+<a href="https://suhas107.github.io"><img src="https://img.shields.io/badge/Website-suhas107.github.io-d8b25c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://www.linkedin.com/in/suhas-nethi"><img src="https://img.shields.io/badge/LinkedIn-suhas--nethi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.instagram.com/suhas_nethi/"><img src="https://img.shields.io/badge/Instagram-@suhas__nethi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+
 </div>
 
 ---
@@ -22,6 +28,7 @@
 - 🔐 Interested in **secure backends**: auth, MFA, RBAC and applied cryptography
 - 🛰️ Exploring **edge computing**, **IoT** and **computer vision** (YOLO on Raspberry Pi)
 - 🌱 Currently sharpening: system design, testing and cloud deployment
+- 💃 Off the keyboard: dancer with Natyasudha (Amrita's dance club), Class Rep and Co-Head of Eventide at Anokha 2026
 - 🤝 Open to internships and collaboration on interesting projects
 
 ---
