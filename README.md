@@ -63,10 +63,15 @@
 | 🌾 [**IP Management Portal**](https://github.com/suhas107/IP-MANAGEMENT-portal) | Patents, varieties and licenses for ICAR-IIRR with email 2FA, deadline calendar and analytics | Flask · SQLAlchemy · Chart.js |
 | 🧪 [**Laboratory Portal**](https://github.com/suhas107/laboratory-portal) | Lab management suite for people, projects, publications and inventory | React · Express · SQLite |
 | 🔐 [**VisitorPass**](https://github.com/suhas107/VisitorPass) | Visitor passes with TOTP MFA, RBAC, encryption, signatures and QR validation | Flask · Cryptography |
-| 🫀 [**Healthcare Edge Computing**](https://github.com/suhas107/capstone-project-24_heartattack) | Priority-based edge/cloud task scheduling for IoT patient data with ML risk prediction | Python · Java · iFogSim2 |
+| 💧 [**Drip Irrigation System**](https://github.com/suhas107/drip-irrigation-system) | Soil-moisture-driven irrigation controller, ~25% water saved | Arduino · Embedded C |
+
+**🤝 Team projects**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🫀 [**Healthcare Edge Computing**](https://github.com/suhas107/capstone-project-24_heartattack) | Capstone (team of 5): priority-based edge/cloud task scheduling for IoT patient data with ML risk prediction | Python · Java · iFogSim2 |
 | 🚁 [**Drone Object Detection**](https://github.com/suhas107/Drone-Object-Detection) | Real-time YOLOv11 detection on drone footage, optimised for Raspberry Pi | Python · YOLO · NCNN |
 | 🎟️ [**Ticket Venuma**](https://github.com/suhas107/ticket-venuma) | Movie ticket booking desktop app with showtimes, seats and payments | Electron · JavaScript |
-| 💧 [**Drip Irrigation System**](https://github.com/suhas107/Automated-Drip-Irrigation-System-) | Soil-moisture-driven irrigation controller, ~25% water saved | Arduino · Embedded C |
 
 ---
 
