@@ -75,7 +75,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=suhas107&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas107&layout=compact&langs_count=8&exclude_repo=VisitorPass&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas107&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=suhas107&theme=tokyonight&hide_border=true&background=0d1117" />
 
